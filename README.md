@@ -1,6 +1,7 @@
 # JS-burger-menu
 > JS exercise given at HEPL
 
+
 * * *
 
 **js-tp-burger-menu** is an educational project, which will be used for `JS` courses.
